@@ -1,0 +1,21 @@
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 40px;
+   
+  }
+  
+  .list li {
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding: 10px;
+    margin: 10px 0;
+    
+  }
+
+  .background {
+      background-color: #333;
+  }
